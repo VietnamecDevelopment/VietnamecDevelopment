@@ -1,5 +1,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VietScripts&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VietScripts&theme=radical)
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://seeklogo.com/images/S/solid-logo-D8251004BE-seeklogo.com.jpg" title="SolidJS GANG" alt="SolidJS GANG" width="40" height="40"/>&nbsp;
