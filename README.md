@@ -18,5 +18,5 @@
 
 <p align="center"> 
   <h2 align="center">🎶 Spotify Recently Played</h2>
-  ![Spotify Latest](https://spotify-recently-played-readme.vercel.app/api?user=31nrgzjsuasfyn4cs7ibfpdhi72q)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31nrgzjsuasfyn4cs7ibfpdhi72q" alt="Spotify Latest">
 </p>
