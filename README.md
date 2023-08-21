@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<p align="center"> 
+<div align="center"> 
   <h2 align="center">🎶 Spotify Recently Played</h2>
   <img align="center" src="https://spotify-recently-played-readme.vercel.app/api?user=31nrgzjsuasfyn4cs7ibfpdhi72q" alt="Spotify Latest">
-</p>
+</div>
