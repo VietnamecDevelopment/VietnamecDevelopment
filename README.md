@@ -1,5 +1,6 @@
 ###
 <h1>I use neovim as my editor of choice.</h1>
+
 ###
 <h1>My main lang is TypeScript</h1>
 
